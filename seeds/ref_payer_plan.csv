@@ -1,0 +1,9 @@
+plan_id,plan_name
+PLN001,Bronze HMO
+PLN002,Silver HMO
+PLN003,Gold HMO
+PLN004,Platinum HMO
+PLN005,Silver PPO
+PLN006,Gold PPO
+PLN007,Medicare Advantage
+PLN008,Employer PPO
